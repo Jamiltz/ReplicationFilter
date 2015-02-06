@@ -1,0 +1,14 @@
+{
+  "log": ["CRUD", "REST+", "Access"],
+    "databases": {
+    "testdb": {
+      "server": "walrus:",
+      "bucket": "default",
+      "users": {
+        "GUEST": {
+          "disabled": false
+        }
+      }
+    }
+  }
+}
