@@ -24,7 +24,7 @@ You can see that in the Sync Gateway logs:
 
 Call `startPushWithFilterFuncWithParams`.
 
-Only docs with the `name` property set to `Waldo` should be replication.
+Only docs with the `name` property set to `Waldo` should be replicated.
 
 #### Array of document IDs
 
